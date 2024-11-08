@@ -1772,3 +1772,7 @@ body {
     padding: 50px;
   }
 }
+
+.arrows-color{
+  color: var(--secondary);
+}
