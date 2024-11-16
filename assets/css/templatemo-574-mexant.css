@@ -1776,3 +1776,11 @@ body {
 .arrows-color{
   color: var(--secondary);
 }
+
+.highlightTextColor{
+  color: var(--secondary);
+}
+
+.highlightTextBold{
+  font-weight: bold;
+}
