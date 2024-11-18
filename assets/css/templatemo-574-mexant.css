@@ -387,7 +387,7 @@ header
 
 .header-area .main-nav .nav li.has-sub ul.sub-menu {
   position: absolute;
-  width: 150px;
+  width: 198px;
   background-color: #fff;
   box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.06);
   overflow: hidden;
@@ -872,6 +872,23 @@ section.simple-cta h4 em {
 }
 
 section.simple-cta h4 strong {
+  color: var(--primary);
+  font-weight: 700;
+}
+
+section.simple-cta h5 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+  line-height: 30px;
+}
+
+section.simple-cta h5 em {
+  font-style: normal;
+  color: var(--secondary);
+}
+
+section.simple-cta h5 strong {
   color: var(--primary);
   font-weight: 700;
 }
