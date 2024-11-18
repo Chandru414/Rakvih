@@ -1784,3 +1784,20 @@ body {
 .highlightTextBold{
   font-weight: bold;
 }
+
+.custom-hr-image{
+  position: absolute;
+  margin-right: 50px;
+  top: 30% !important;
+  left: 35px;
+  transform: translateY(-50%);
+  width: 400px;
+}
+
+.custom-hr-img{
+  border-radius: 8px;
+}
+
+.custom-hr-div{
+  padding: 35px;
+}
