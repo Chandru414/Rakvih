@@ -1196,10 +1196,24 @@ section.partners {
   padding: 80px 0px;
 }
 
+/* section.partners .item {
+  margin: 0px 15px;
+  cursor: pointer;
+  transition: all .3s;
+} */
+
 section.partners .item {
   margin: 0px 15px;
   cursor: pointer;
   transition: all .3s;
+  height: 200px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    img{
+      width: 100%;
+      height: auto;
+    }
 }
 
 section.partners .item:hover {
