@@ -758,14 +758,14 @@ banner
 .slide-inner .header-text h2 {
   position: relative;
   z-index: 2;
-  font-size: 56px;
+  font-size: 50px;
   color: #fff;
   /* color: var(--primary); */
   font-weight: 700;
   opacity: 1;
   visibility: visible;
   line-height: 70px;
-  margin-bottom: 40px;
+  /* margin-bottom: 40px; */
 }
 
 .slide-inner .header-text .div-dec {
