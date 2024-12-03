@@ -232,7 +232,8 @@ header
 --------------------------------------------- 
 */
 .background-header {
-  background-color: #212741;
+  /* background-color: #212741; */
+  background-color: #fff;
   height: 80px!important;
   position: fixed!important;
   top: 0!important;
@@ -279,7 +280,8 @@ header
 
 .background-header .main-nav .logo {
   line-height: 80px;
-  width: 160px;
+  /* width: 160px; */
+  width: 200px;
 }
 
 .background-header .nav {
@@ -313,7 +315,8 @@ header
   font-weight: 300;
   font-size: 14px;
   text-transform: capitalize;
-  color: #fff;
+  /* color: #fff; */
+  color:#000;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -326,6 +329,7 @@ header
 
 .header-area .main-nav .nav li:last-child a {
   font-size: 14px;
+  /* color: #fff; */
   color: #fff;
   background-color: var(--secondary);
   padding: 10px 20px !important;
